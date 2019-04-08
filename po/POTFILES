@@ -1,0 +1,7 @@
+data/org.gtk.smth.desktop.in
+data/org.gtk.smth.appdata.xml.in
+data/org.gtk.smth.gschema.xml
+src/window.ui
+src/main.vala
+src/window.vala
+
